@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.3
+Brotli @ file:///croot/brotli-split_1714483155106/work
+bs4==0.0.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
+packaging==24.0
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+python-dotenv==1.0.1
+requests==2.31.0
+selenium @ file:///home/builder/ci_310/selenium_1640794525077/work
+soupsieve==2.5
+urllib3 @ file:///croot/urllib3_1688592639724/work
+webdriver-manager==4.0.1

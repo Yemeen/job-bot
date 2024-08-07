@@ -1,0 +1,15 @@
+import dotenv
+import os
+
+dotenv.load_dotenv()
+
+USERNAME = os.getenv('USERNAME')
+PASSWORD = os.getenv('PASSWORD')
+LOGIN_URL = "YOUR_LOGIN_URL"
+JOBS_URL = "YOUR_JOBS_URL"
+JOB_RADIUS = 50
+JOB_CHECK_INTERVAL = 15
+JOB_QUERY = "YOUR_JOB_QUERY"
+STATUS_UPDATE_INTERVAL = 60
+JOB_COUNT_FILE = 'job_count.json'
+TESTING = True
